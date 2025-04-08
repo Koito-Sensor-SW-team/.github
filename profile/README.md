@@ -1,4 +1,4 @@
-# Welcome to Koito-Sensor-SW-team
+# Welcome to Koito-Sensor SW team
 センサ開発部のソフトウェア開発用ページです。
 部内で共有したいツールをリポジトリにアップロードし、
 共同開発やコードレビューに利用する予定です
