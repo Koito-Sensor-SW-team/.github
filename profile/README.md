@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome to Koito-Sensor-SW-team
+センサ開発部のソフトウェア開発用ページです。
+部内で共有したいツールをリポジトリにアップロードし、
+共同開発やコードレビューに利用する予定です
+## 使い方
+- "Repositories"に移動し、"New Repository"をクリック
+- プロジェクトごとに成果物をアップロード
+- 更新時はcommit/pushを行い、必要に応じて"Pull Request"でコードレビュー実施
